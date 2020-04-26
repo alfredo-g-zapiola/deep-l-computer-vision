@@ -1,0 +1,17 @@
+*.csv
+*.jpg
+*.jpeg
+*.png
+/readonly
+*/logs
+*/.ipynb_checkpoints
+*/ipynb_checkpoints
+*ipynb_checkpoints
+.ipynb_checkpoints/
+*.hdf5
+*/checkpoint
+*/checkpoint2-0
+*/checkpoint3-HW0
+*h5
+
+
